@@ -1,24 +1,15 @@
-# README
+# gibb-leaks (WIP)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Gibb-leaks is my upcoming API for publishing leaked exams from https://portal.iet-gibb.ch/
 
-Things you may want to cover:
+Things the API will cover:
 
-* Ruby version
+* Information about modules
 
-* System dependencies
+* Relevant information/preperations for tests
 
-* Configuration
+* Test contents
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
