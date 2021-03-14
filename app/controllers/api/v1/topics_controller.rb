@@ -49,7 +49,7 @@ module Api
 
         # Only allow a list of trusted parameters through.
         def topic_params
-          params.require(:topic).permit(:name, :user_id)
+          params.require(:topic).permit(:name)
         end
     end
   end
