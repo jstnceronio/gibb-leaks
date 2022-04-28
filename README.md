@@ -1,4 +1,4 @@
-# gibb-leaks is cancelled, gibb-marketplace will take its place :)
+# gibb-leaks is deprecated, gibb-marketplace will take its place :)
 
 Gibb-leaks is my upcoming API for publishing leaked exams from https://portal.iet-gibb.ch/
 
